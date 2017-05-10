@@ -3,7 +3,7 @@
 
 # Hypermeet 2017
 
-### Confirmed interest in attendance:
+### Said yes to coming
 
 * Ulv
 * Gliptic
@@ -15,13 +15,13 @@
 * EdgeCrusher
  
  
-### Unconfirmed interest in attendance:
+### Said maybe to coming
 
 * MrEvil
 * Barnex
 * KOSA
 
-### Confirmed not coming
+### Said sorry but no to coming
 
 * Greybrow
 * Basro
