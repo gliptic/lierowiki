@@ -19,12 +19,24 @@
 
 * MrEvil
 * Barnex
+* KOSA
 
 ### Confirmed not coming
 
 * Greybrow
 * Basro
 * Mots
-* 
 
-[Location](location)
+
+## Location
+
+|Where|Why|Suggestor|
+|---|---|---|---|---|
+|Bamberg|Scenic, beer paradise, southern germany|MrEvil|
+|Hell|So called "funny" place name|j/k|
+
+ * Nuremberg
+ * Leipzig
+ * Dresden
+ * Prague
+ * Ingolstadt
