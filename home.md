@@ -34,9 +34,8 @@
 |---|---|---|---|---|
 |Bamberg|Scenic, beer paradise, southern germany|MrEvil|
 |Hell|So called "funny" place name|j/k|
-
- * Nuremberg
- * Leipzig
- * Dresden
- * Prague
- * Ingolstadt
+|Nuremberg|basro might pretend to be there||
+|Leipzig|Pretty good connections from Berlin, I think||
+|Dresden|Close to Poland?||
+|Prague|||
+|Ingolstadt|||
