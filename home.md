@@ -34,7 +34,7 @@
 |---|---|---|---|---|
 |Bamberg|Scenic, beer paradise, southern germany|MrEvil|
 |Hell|So called "funny" place name|j/k|
-|Nuremberg|basro might pretend to be there||
+|Nuremberg|||
 |Leipzig|Pretty good connections from Berlin, I think||
 |Dresden|Close to Poland?||
 |Prague|||
