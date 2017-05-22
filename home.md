@@ -3,7 +3,7 @@
 
 # Hypermeet 2017
 
-### When
+## When
 
 3-6 August, 2017
 
