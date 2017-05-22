@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Well hello there -->
+<!-- SUBTITLE: We use this page to store information about Hypermeet 2017 -->
 
 # Hypermeet 2017
 
