@@ -21,7 +21,7 @@ Flying: If you want.
 Car: There might be one or two cars going to Leipzig. Of course there will be limited space but one probably from the north and possibly one from the west. Both can pick up in Germany, presumably. Let me know and I might be able to hook you up.
 
 
-### Said yes to coming
+## Coming
 
 * Ulv
 * Gliptic
@@ -33,7 +33,7 @@ Car: There might be one or two cars going to Leipzig. Of course there will be li
 * EdgeCrusher
  
  
-### Said maybe to coming
+### Probably coming
 
 * MrEvil, 90% sure
 * Barnex
