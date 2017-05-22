@@ -14,6 +14,11 @@ Leipzig. We have 3 apartment for 4 people in each, plenty of space. Two apartmen
 
 Its close to city center, like 3 tram stops, and there is a tram stop right outside.
 
+###
+
+Transport: Train from Berlin looks pretty ok. 90 minutes direct connection like €30-40.
+
+
 ### Said yes to coming
 
 * Ulv
