@@ -48,29 +48,29 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 ## Accomodation setup
 (People assigned as on list - just for headcount)
 
-3/8 - Apt. 1: 4 sleeps)
+### 3/8 - Apt. 1: 4 sleeps)
 1. Ulv
 2. Gliptic
 3. Joosa
-3/8 - Apt. 2: 4 sleeps)
+### 3/8 - Apt. 2: 4 sleeps)
 1. Jonny
 2. Jonkki
-3/8 - Apt. 3: 3 sleeps)
+### 3/8 - Apt. 3: 3 sleeps)
 1. Shiva
 2. MrEvil
 
-4/8 - Apt. 1: 4 sleeps)
+### 4/8 - Apt. 1: 4 sleeps)
 * Ulv, 3rd
 * Gliptic
 * Shiva
 * Joosa
-4/8 - Apt. 2: 4 sleeps)
+### 4/8 - Apt. 2: 4 sleeps)
 * Jonny
 * Jonkki
 * NoMind, 4th
 * EdgeCrusher, 4th
-4/8 - Apt. 3: 3 sleeps)
+### 4/8 - Apt. 3: 3 sleeps)
 * KOSA, 4th
 * MrEvil
 
-and so on...
+> and so on...
