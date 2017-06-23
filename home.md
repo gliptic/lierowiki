@@ -23,21 +23,20 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 
 ## Coming
 
-* Ulv
+* Ulv, 3rd
 * Gliptic
 * Shiva
 * Joosa
 * Jonny
 * Jonkki
-* NoMind
-* EdgeCrusher
- 
+* NoMind, 4th
+* EdgeCrusher, 4th
+* KOSA, 4th
  
 ### Probably coming
 
 * MrEvil, 90% sure
 * Barnex
-* KOSA
 * ARNE
 
 ### Said sorry but no to coming
