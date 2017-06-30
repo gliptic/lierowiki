@@ -24,11 +24,11 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 ## Coming
 
 * Ulv, 3rd
-* Gliptic
+* Gliptic, 3rd
 * Shiva, 4th
-* Joosa
+* Joosa, 3rd
 * Jonny
-* Jonkki
+* Jonkki, 3rd
 * NoMind, 4th
 * EdgeCrusher, 4th
 * KOSA, 4th
