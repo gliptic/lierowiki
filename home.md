@@ -25,7 +25,7 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 
 * Ulv, 3rd
 * Gliptic
-* Shiva
+* Shiva, 4th
 * Joosa
 * Jonny
 * Jonkki
