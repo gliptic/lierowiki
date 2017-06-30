@@ -25,14 +25,14 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 
 * Ulv, 3rd
 * Gliptic, 3rd
-* Shiva, 4th
 * Joosa, 3rd
-* Jonny
 * Jonkki, 3rd
+* Shiva, 4th
 * NoMind, 4th
 * EdgeCrusher, 4th
 * KOSA, 4th
- 
+* Jonny
+
 ### Probably coming
 
 * MrEvil, 90% sure
