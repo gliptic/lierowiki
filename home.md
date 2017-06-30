@@ -39,11 +39,12 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 * Barnex
 * ARNE
 
-### Said sorry but no to coming
+### Not coming
 
 * Greybrow
 * Basro
 * Mots
+* Darka
 
 ## Accomodation setup
 (People assigned as on list - just for headcount)
