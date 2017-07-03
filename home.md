@@ -23,15 +23,16 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 
 ## Coming
 
-* Ulv, 3rd
-* Gliptic, 3rd
-* Joosa, 3rd
-* Jonkki, 3rd
-* Shiva, 4th
-* NoMind, 4th
-* EdgeCrusher, 4th
-* KOSA, 4th
-* Jonny
+* Ulv, 3rd ~ 11:30 SXF
+* Gliptic, 3rd ~ 12:00 TXL
+* Joosa, 3rd ~ 13:00 TXL
+* Jonkki, 3rd ~ 13:00 TXL
+* Jonny, 3rd ~ 14:00 TXL
+* Shiva, 4th - CAR
+* NoMind, 4th - train from Berlin
+* EdgeCrusher, 4th - train from Berlin
+* KOSA, 4th - train from Berlin
+
 
 ### Probably coming
 
