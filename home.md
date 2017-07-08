@@ -37,7 +37,6 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 ### Probably coming
 
 * MrEvil, 90% sure
-* Barnex
 * ARNE
 
 ### Not coming
@@ -46,6 +45,7 @@ Its close to city center, like 3 tram stops, and there is a tram stop right outs
 * Basro
 * Mots
 * Darka
+* Barnex
 
 ## Accomodation setup
 (People assigned as on list - just for headcount)
