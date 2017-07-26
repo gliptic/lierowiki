@@ -8,6 +8,10 @@
 3-6 August, 2017
 
 
+## Tournament of Liero
+
+https://docs.google.com/spreadsheets/d/1CvWXPISB7n3mcsB5FqpgcHJsgCUbzQ8rscjJDMQxsZs/edit#gid=124431024
+
 ## Location
 
 Leipzig. We have 3 apartment for 4 people in each, plenty of space. Two apartments in the same building, the other one is around the corner.
